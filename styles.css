@@ -1,0 +1,43 @@
+h1 {
+	color: pink;
+	font-family: Arial;
+	font-size: 36px;
+	width: 500px;
+	text-align: center;
+;
+}
+p {
+	font-family: Georgia;
+	font-kerning: 21px;
+	font-size: 18px;
+	margin-left: 100px;
+	padding-bottom: 50px;
+	width: 500px;
+}
+body {background-color: #efefef;
+}
+.bold {
+	font-weight: bold;
+}
+li {
+	color: blue;
+}
+div {
+	width: 800px;
+	height: 200px;
+	border: 1px solid black;
+	padding: 20px;
+	box-sizing: border-box;
+}
+.blue {
+	background-color: blue;
+	font-size:24px;
+}
+
+.yellow {
+	background-color: yellow;
+}
+h1, p, div {
+	margin-left: auto;
+	margin-right: auto;
+}
